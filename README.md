@@ -36,7 +36,7 @@ Historical stock data was fetched using the `yfinance` Python package. The datas
 - Nvidia (NVDA)
 - Tesla (TSLA)
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 Preprocessing steps included:
 - Manual correction of Excel file headers
@@ -46,7 +46,7 @@ Preprocessing steps included:
 - Encoding categorical stock labels using `LabelEncoder`
 - Feature scaling with `StandardScaler`
 
-## 🤖 Models Used
+##  Models Used
 
 Three machine learning regression models were implemented:
 
